@@ -1,0 +1,46 @@
+#######################################
+#SPI communication layer
+#######################################
+
+#######################################
+#FUNCTIONS COLOR #D35400 - ORANGE KEYWORD1
+#Classes
+#######################################
+ComDriverSpi	KEYWORD1
+
+#######################################
+#FUNCTIONS COLOR #D35400 - ORANGE KEYWORD2
+#######################################
+writeSpi	KEYWORD2
+readSpi	KEYWORD2
+writeReadSpi	KEYWORD2
+
+setSlaveSelectPin	KEYWORD2
+getSlaveSelectPin	KEYWORD2
+setFrequency	KEYWORD2
+getFrequency	KEYWORD2
+setDataMode	KEYWORD2
+getDataMode	KEYWORD2
+setDataOrder	KEYWORD2
+getDataOrder	KEYWORD2
+setTransferOption	KEYWORD2
+getTransferOption	KEYWORD2
+
+#######################################
+#STRUCTURE COLORS #728E00 - GREEN KEYWORD3
+#######################################
+transferOption_t	KEYWORD3
+
+#######################################
+#CONSTANTS COLOR #00979C - BLUE	LITERAL1
+#######################################
+transferEnd	LITERAL1
+transferStart	LITERAL1
+transferStartEnd	LITERAL1
+
+#######################################
+# VARIABLES COLOR #00979C - BLUE	LITERAL2
+#######################################
+
+
+
