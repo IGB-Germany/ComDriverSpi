@@ -7,7 +7,7 @@ Create an object to open a communication channel.
 Use the object and its methods to transfer data.
 All underlying activities are encapsulated.
 
-## Instalation
+## Installation
 
 To install, use the Arduino Library Manager and search for "ComDriverSpi" and install the library.
 
